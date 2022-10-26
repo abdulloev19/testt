@@ -6,7 +6,7 @@ const Home = { template: '<h2>Home Page</h2>' }
 const About = { template: '<h2>About Page</h2>' }
   
 const routes = [
-  { path: '/', component: indexPage },
+  { path: '/testt', component: indexPage },
   { path: '/products', component: Home },
   { path: '/about', component: About }
 ];
